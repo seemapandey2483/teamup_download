@@ -1,0 +1,10 @@
+Due to a recent update performed by <TEAMUP:CarrierName>, your link to receive scheduled downloads from <TEAMUP:CarrierShortName> has changed.
+
+If you are currently set up to receive automated downloads using your Windows Scheduler, you will need to update your scheduled download settings and/or desktop icons for TEAM-UP Download.
+
+To update your scheduled download settings, log into the TEAM-UP Download application at:  <TEAMUP:LoginUrl>.  Then select 'Add/Modify Scheduled Download' from the Preferences menu and complete the requested information.
+
+To update your TEAM-UP Download desktop icons, log into the TEAM-UP Download application and select 'Create Desktop Icons' from the Preferences menu.
+
+
+As always, thank you for placing your business with <TEAMUP:CarrierName>!

@@ -1,0 +1,7 @@
+<TEAMUP:CarrierShortName> trading partner <TEAMUP:AgentName> (Agent ID: <TEAMUP:AgentId>) has just changed their TEAM-UP Download status from "<TEAMUP:StatusPrior>" to "<TEAMUP:StatusNew>."
+
+The current contact information for this trading partner is:
+
+	<TEAMUP:AgentContact>
+	<TEAMUP:AgentPhone>
+	<TEAMUP:AgentEmail>

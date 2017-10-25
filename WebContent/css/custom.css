@@ -1,0 +1,292 @@
+/* Ebix admin app.css ver1.0.1 by Ebix Software Pvt. Ltd.  */
+
+.welcome{line-height:50px;}
+.wd229{width:229px;}
+.frm_bdr_bottom{border-bottom:1px dashed #C9C9C9 !important; margin-bottom:15px !important; padding-bottom:0px !important;}
+.radio,
+.checkbox {
+  padding-left:0px!important;
+}
+
+.controls > .radio:first-child,
+.controls > .checkbox:first-child {
+  padding-top: 0!important;
+}
+
+.radio.inline,
+.checkbox.inline {
+
+ padding-top: 0!important;
+
+}
+
+ul.nav-tabs > li a{ font-size:13px!important;}
+.darkGrey{background:#333 !important}
+
+/*--------------------Risk Envision Styling------------------------------*/
+
+.displayPanelSectionLinks {
+  BORDER-LEFT: #0087c7 1px solid;
+  PADDING-LEFT: 3px;
+  TEXT-ALIGN: left;
+}
+
+.displayPanelSectionLinks A {
+  BORDER-RIGHT: #0087c7 1px solid;
+  PADDING-RIGHT: 3px;
+}
+
+DIV.claimSummary TH.displayPanelSectionHeader {
+  COLOR:#0087c7;
+  PADDING-TOP: 0.1em;
+  TEXT-ALIGN: center;
+  PADDING-bottom: 3px;
+}
+
+
+.panelRequiredField:after {
+    content: " *";
+    color: red;
+}
+
+/* .claimSummary th{
+    text-align:right;
+    padding-right: 20px;
+} */
+
+DIV.collectionList{
+    height:120px;
+    overflow:scroll;
+    overflow-x: hidden;
+}
+
+DIV.collectionListLarge{
+    height:60vh;
+    overflow:scroll;
+    overflow-x: hidden;
+}
+
+table.boxinfo{
+    width:100%;
+}
+
+table.boxinfo tr{
+    border: 1px solid #0087c7;
+    background-image:url('../images/patterns/furley_bg1.png');
+}
+
+#tabheader ul {
+    margin:0;
+    padding:10px 10px 0;
+    list-style:none;
+}
+    
+#tabheader li {
+    float:left;
+    no-repeat right top;
+    border: 1px solid #778;
+    border-top: none;
+    border-left: none;
+}
+
+#tabheader li.activelist {
+    float:left;
+    no-repeat right top;
+    border: none;
+    border-top: 1px solid #778;
+    border-right: 1px solid #778;
+}
+
+#tabheader li.lastactivetab {
+    border-right: 1px solid #778;
+}
+
+#tabheader li.firtsactivetab {
+    border-left: 1px solid #778;
+}
+
+#tabheader a {
+    padding: 3px 0.5em;
+    margin-left: 3px;
+    text-decoration: none;
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+div.basic_scroll{
+    height : 500px;
+    overflow : auto;
+}
+
+#footer{
+    border: 50px;
+    position: relative;
+    align: right;
+}
+
+#wrapper {
+        width:450px;
+        margin:1 auto;
+        font-family:Verdana, sans-serif;
+}
+legend {
+        color:#5C95D0;
+        font-size:15px;
+        padding:0 10px;
+        background:#fff;
+        -moz-border-radius:1px;
+        box-shadow: 0 1px 5px rgba(4, 129, 177, 0.5);
+        padding:5px 10px;
+        /*text-transform:uppercase;*/
+        font-family:Helvetica, sans-serif;
+        font-weight:bold;
+}
+fieldset {
+        border-radius:1px;
+        background: #F6F6F6;
+        padding:20px;
+        border-color:#FFFFFF; /*#5C95D0*/
+}
+input,select,
+textarea {
+        color: #373737;
+        background: #fff;
+        border: 1px solid #CCCCCC;
+        color: #aaa;
+        font-size: 12px;
+        line-height: 1.2em;
+        margin-bottom:15px;
+		height: 32px;
+		width:280px;
+		
+        -moz-border-radius:4px;
+        -webkit-border-radius:4px;
+        border-radius:1px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset, 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+input[type="text"],
+input[type="password"]{
+        padding: 8px 6px;
+        height: 32px;
+        width:400px;
+}
+input[type="text"]:focus1,
+input[type="password"]:focus1 {
+        background:#f5fcfe;
+        text-indent: 0;
+        z-index: 1;
+        color: #373737;
+        -webkit-transition-duration: 400ms;
+        -webkit-transition-property: width, background;
+        -webkit-transition-timing-function: ease;
+        -moz-transition-duration: 400ms;
+        -moz-transition-property: width, background;
+        -moz-transition-timing-function: ease;
+        -o-transition-duration: 400ms;
+        -o-transition-property: width, background;
+        -o-transition-timing-function: ease;
+        width: 380px;
+        
+        border-color:#ccc;
+        box-shadow:0 0 5px rgba(4, 129, 177, 0.5);
+        opacity:0.6;
+}
+input[type="submit1"],
+input[type="button"] {
+        background: #585757;
+        border: none;
+        text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+        text-transform:uppercase;
+        color: #eee;
+        cursor: pointer;
+        font-size: 12px;
+        margin: 5px 0;
+        padding: 5px 22px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        -webkit-border-radius:4px;
+        -webkit-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+        box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+}
+
+input[type="submit"] {
+	background: #445662;
+	border: none;
+	text-transform:uppercase;
+	color: #eee;
+	cursor: pointer;
+    font-size: 12px;
+    margin: 3px 0;
+    padding: 5px 5px;
+    border-radius: 1px;
+    width: auto;
+}
+
+textarea {
+        padding:3px;
+        width:96%;
+        height:100px;
+}
+textarea:focus {
+        background:#ebf8fd;
+        text-indent: 0;
+        z-index: 1;
+        color: #373737;
+        opacity:0.6;
+        box-shadow:0 0 5px rgba(4, 129, 177, 0.5);
+        border-color:#ccc;
+}
+.small {
+        line-height:14px;
+        font-size:12px;
+        color:#7F7F7F;
+        margin-bottom:5px;
+}
+
+/*  Login Page   */
+
+.login-page {
+  width: 360px;
+  padding: 5% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #5C95D0;
+  width: 100%;
+  border: 0;
+  padding: 10px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+
+
+

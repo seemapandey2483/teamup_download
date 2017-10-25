@@ -1,0 +1,17 @@
+Agent ID:  <TEAMUP:AgentId>
+
+Our records indicate that you did not attempt to retrieve your automatic scheduled download.  This could indicate a problem with your automatic download configuration.
+
+In order to check that your scheduler is configured properly:
+
+1.  Open the TEAM-UP Download application either by double-clicking the TEAM-UP Icon in your taskbar, or by clicking on Start --> All Programs --> TEAM-UP Download
+
+2.  Click on the "Configuration" menu item
+
+3.  Click on the "Scheduler" tab
+
+4.  Make sure that the "Schedule" column is checked and that a time has been selected for each carrier
+
+If the items listed above did not resolve your problem, please contact our agency help desk at mailto:<TEAMUP:CarrierEmail>.
+
+As always, thank you for placing your business with <TEAMUP:CarrierName>!

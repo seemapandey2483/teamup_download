@@ -1,0 +1,6 @@
+<TEAMUP:CarrierShortName> trading partner <TEAMUP:AgentName> (Agent ID: <TEAMUP:AgentId>) has changed their agency vendor system settings for TEAM-UP Download.
+
+The updated vendor system information for this trading partner is:
+
+	Vendor System:  <TEAMUP:AgentVendorSystem>
+	Software Version: <TEAMUP:AgentVendorVersion>

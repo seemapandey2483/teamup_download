@@ -1,0 +1,12 @@
+<TEAMUP:CarrierName> is upgrading to a new download system in order to better serve you, our trading partners.  We have attempted to make the transition as seamless as possible to keep from interrupting your daily schedule.  However, we will need for you to complete a quick, one-time registration and setup.
+
+Please use your Internet browser and the following URL to start the setup process:
+<TEAMUP:LoginUrl>
+
+To complete the initial login, please use the following values:
+	Agent ID:  <TEAMUP:AgentId>
+	Password:  <TEAMUP:Password>
+
+You will have the opportunity during the registration process to reset your agent password (this is recommended but not required).
+
+Thank you for placing your business with <TEAMUP:CarrierName>!

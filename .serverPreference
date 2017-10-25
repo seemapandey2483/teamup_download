@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server-preference>
+   <deployable factoryId="com.ibm.etools.webtools.server"
+      memento="TEAMWork Download Server" server="/Servers/WTE 5.0.wsi"/>
+</server-preference>

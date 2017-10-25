@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+    <resource-ref>
+        <res-ref-name>jdbc/teamupdl</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <jndi-name>java:/jdbc/teamupdl</jndi-name>
+    </resource-ref>
+    <resource-ref>
+        <res-ref-name>mail/teamupdl</res-ref-name>
+        <res-type>javax.mail.Session</res-type>
+        <jndi-name>java:/Mail</jndi-name>
+    </resource-ref>
+	<security-domain>java:/jaas/teamupdl</security-domain>    
+</jboss-web>
+
+
+

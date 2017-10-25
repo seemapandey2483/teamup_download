@@ -1,0 +1,16 @@
+<teamupws>
+	<commands>
+		<command>
+			<id>GetAgentsForLogin</id>
+			<impl>connective.teamup.download.ws.commands.GetAgentsForLogin</impl>
+		</command>
+		<command>
+			<id>GetSecurityToken</id>
+			<impl>connective.teamup.download.ws.commands.GetSecurityToken</impl>
+		</command>
+		<command>
+			<id>ChangePassword</id>
+			<impl>connective.teamup.download.ws.commands.ChangePassword</impl>
+		</command>
+	</commands>
+</teamupws>

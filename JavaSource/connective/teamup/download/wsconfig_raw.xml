@@ -1,0 +1,8 @@
+<teamupws>
+	<commands>
+		<command>
+			<id>GetDownloadFileContents</id>
+			<impl>connective.teamup.download.ws.commands.GetDownloadFileContents</impl>
+		</command>
+	</commands>
+</teamupws>

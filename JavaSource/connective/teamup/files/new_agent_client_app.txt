@@ -1,0 +1,18 @@
+<TEAMUP:CarrierName> is upgrading to a new download system in order to better serve you, our agents.  We have attempted to make the transition as seamless as possible to keep from interrupting your daily schedule.  However, we will need for you to complete a quick, one-time setup and registration.
+
+To install TEAM-UP Download, please click on the link below.  If you are already using TEAM-UP Download with other companies, the installation process will automatically detect and skip parts of the installation.  You will NOT lose any information or settings when adding a new company to the download process.
+
+<TEAMUP:RegistrationUrl>
+
+(Note: if clicking on the link does not automatically open your internet browser, please do so manually and type the link into the address bar)
+
+
+
+After installing TEAM-UP Download, you will be asked to login to the application and verify some setup information.  Please use the following values when asked to login:
+
+	Carrier ID:  <TEAMUP:CarrierId>
+	Agent ID:  <TEAMUP:AgentId>
+	Password:  <TEAMUP:Password>
+
+
+Thank you for placing your business with <TEAMUP:CarrierName>!

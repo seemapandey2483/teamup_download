@@ -1,0 +1,9 @@
+You have a new set of Applied Company Unique Screens and Edits waiting for you from <TEAMUP:CarrierName>.
+
+To retrieve your Applied screens and edits, log into the TEAM-UP Download application at:  <TEAMUP:LoginUrl>.  Then select 'Download Applied Edits' from the Actions menu and follow the instructions.
+
+Your current login parameters are:
+	Agent ID:  <TEAMUP:AgentId>
+	Password:  <TEAMUP:Password>
+
+As always, thank you for placing your business with <TEAMUP:CarrierName>!

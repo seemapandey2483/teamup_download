@@ -1,0 +1,13 @@
+Agent ID:  <TEAMUP:AgentId>
+
+Our records indicate that you did not attempt to retrieve your automatic scheduled download.  This could indicate a problem with your automatic download configuration.  Listed below are some possible causes and their solutions:
+
+1. The download computer was turned off when the download was scheduled to run.  If this is the case, simply click on this link <TEAMUP:DownloadUrl> to get your download now!
+
+2. Your Windows password changed.  If this is the case, you need to update your automatic download with your new password by clicking on this link <TEAMUP:LoginUrl> and choosing "Add/Modify Scheduled Download" from the "Preferences" menu.
+
+3. You are using a new computer for your download.  If this is the case, you need to configure that computer for the automatic download by clicking on this link <TEAMUP:LoginUrl> and choosing "Change Agency System Settings" from the "Preferences" menu.
+
+If the items listed above did not resolve your problem, please contact our agency help desk at mailto:<TEAMUP:CarrierEmail>."
+
+As always, thank you for placing your business with <TEAMUP:CarrierName>!

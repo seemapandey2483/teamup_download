@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webappbnd:WebAppBinding xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:webappbnd="webappbnd.xmi" xmi:id="WebAppBinding_1" virtualHostName="default_host">
+  <webapp href="WEB-INF/web.xml#WebApp"/>
+  <resRefBindings xmi:id="ResourceRefBinding_1102297566614" jndiName="jdbc/teamupdl">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1102297566614"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1109364744770" jndiName="mail/teamupdl">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1109364744770"/>
+  </resRefBindings>
+</webappbnd:WebAppBinding>

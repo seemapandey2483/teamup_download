@@ -1,0 +1,13 @@
+<TEAMUP:CarrierShortName> trading partner <TEAMUP:AgentName> has just completed the registration process for TEAM-UP Download.
+
+The following information was saved by the trading partner during this process:
+
+Agent ID:      <TEAMUP:AgentId>
+Agent Name:    <TEAMUP:AgentName>
+Contact Name:  <TEAMUP:AgentContact>
+Contact Phone: <TEAMUP:AgentPhone>
+Contact Email: <TEAMUP:AgentEmail>
+Agent Status:  <TEAMUP:Status>
+
+Vendor System:  <TEAMUP:AgentVendorSystem>
+Software Version: <TEAMUP:AgentVendorVersion>

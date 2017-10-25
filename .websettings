@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websettings version="600">
+    <project-type>J2EE</project-type>
+    <context-root>/teamupdl</context-root>
+    <jsp-level>1.2</jsp-level>
+    <features>
+<feature>
+<feature-id>WebProjectCVSFileFeature</feature-id>
+</feature>
+<feature>
+<feature-id>WebProjectCSSFileFeature</feature-id>
+</feature>
+<feature>
+<feature-id>UtilityFeature</feature-id>
+</feature>
+<feature>
+<feature-id>JSPStandardFeature</feature-id>
+</feature>
+</features>
+    <webcontent>WebContent</webcontent>
+</websettings>

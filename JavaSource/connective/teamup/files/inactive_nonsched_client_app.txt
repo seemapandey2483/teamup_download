@@ -1,0 +1,10 @@
+Agent ID:  <TEAMUP:AgentId>
+
+Our records indicate that you have not attempted to download policy data from <TEAMUP:CarrierName> in several days.  It is important that you download your policy data regularly to ensure that you have the most up-to-date information on your policies.
+
+We recommend that you download your policy data now by opening the TEAM-UP Download application and clicking on the "Download" button.
+
+If the items listed above did not resolve your problem, please contact our agency help desk at mailto:<TEAMUP:CarrierEmail>.
+
+
+As always, thank you for placing your business with <TEAMUP:CarrierName>!
